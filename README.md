@@ -1,1 +1,2 @@
-# nosql-challenge
+NoSQL Challenge Overview
+This project involves working with a MongoDB database to analyze and modify food hygiene ratings data. First, I imported data from a JSON file into a MongoDB database and verify that the import was successful. Next, I updated the database by adding a new restaurant entry, adjusting certain fields, and cleaning up data by removing specific entries and correcting data types. Finally, I performed various analyses to answer questions about the establishments, such as identifying those with high hygiene scores, finding establishments in London with high ratings, and analyzing local authority areas based on hygiene scores. 
